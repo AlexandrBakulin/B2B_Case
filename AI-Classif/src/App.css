@@ -1,0 +1,8 @@
+/* The application uses the full viewport width; the actual layout is defined in index.css. */
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
